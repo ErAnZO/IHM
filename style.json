@@ -7,7 +7,7 @@
     "openmaptiles:version": "3.x"
   },
   "sources": {
-    "waterholes": {
+    "parks": {
       "type": "geojson",
       "data": "https://raw.githubusercontent.com/ErAnZO/IHM/main/data.geojson"
     }
@@ -19,7 +19,7 @@
       "id": "waterhole-info",
       "type": "symbol",
       "metadata": {"IHM:overlay": true},
-      "source": "waterholes",
+      "source": "parks",
       "minzoom": 13,
       "layout": {
         "text-field": [
