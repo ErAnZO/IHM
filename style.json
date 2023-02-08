@@ -24,12 +24,7 @@
       "layout": {
         "text-field": [
           "concat",
-          ["get", "name"],
-          ": ",
-          ["get", "status"],
-          " (",
-          ["get", "date"],
-          ")"
+          ["get", "Name"]
         ],
         "symbol-placement": "point",
         "text-font": ["Open Sans Cond Bold"],
