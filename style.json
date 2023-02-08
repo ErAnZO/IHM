@@ -20,7 +20,7 @@
       "type": "symbol",
       "metadata": {"IHM:overlay": true},
       "source": "parks",
-      "minzoom": 13,
+      "minzoom": 3,
       "layout": {
         "text-field": [
           "concat",
