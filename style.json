@@ -9,7 +9,7 @@
   "sources": {
     "parks": {
       "type": "geojson",
-      "data": "https://raw.githubusercontent.com/ErAnZO/IHM/main/data.geojson"
+      "data": "https://raw.githubusercontent.com/ErAnZO/IHM/main/data1.geojson"
     }
   },
   "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
