@@ -9,7 +9,7 @@
   "sources": {
     "waterholes": {
       "type": "geojson",
-      "data": "https://raw.githubusercontent.com/ErAnZO/IHM/main/data2.json"
+      "data": "https://raw.githubusercontent.com/ErAnZO/IHM/main/data.geojson"
     }
   },
   "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
