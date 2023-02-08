@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "חניון לילה פלס\"ר 7",
+        "description": "<img src=\"https://doc-00-48-mymaps.googleusercontent.com/untrusted/hostedimage/2ct64tgpq2ca4mrsc9enl34n4o/dd7umg42dgcpt0ctt1f41rhthk/1675800665500/QKv6_1PMLogfoGZ4F2qZIhR2lFkOIuVR/03657807101489194857/5AI-xGzyKM-1CL5ekfQGndqMm_a_4lcKts0swCVF_DH-z1mcEVmSR0wysKMpi9woHa462rj3CMGVZn0nev5s9tsAoQAZpqS-25R9KShyT_iPP0tGqKVyqQckZ9lYIwZT0U1wD4JJziGixeZshSPQ80OI2AAFKvczxA2tmiDPh9yDK5IhYQu2sEI7fs4TqKIlCjMM6VQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>חניון עם שולחנות ופחי זבל ממש בצמוד לאנדרטת פלס\"ר 7, על שביל הגולן. אין מים למילוי למרות שמסומן כך בחלק מהמפות. ישנם כמה משטחי בטון עם גדר אבן - מעולים להקמת אוהלים. אין שירותים. מילוי מים אפשר בבוקעתא, ק\"מ אחד צפונה או באל רום, ק\"מ אחד דרומה.",
+        "tessellate": -1,
+        "extrude": 0,
+        "gx_media_links": "https://doc-00-48-mymaps.googleusercontent.com/untrusted/hostedimage/2ct64tgpq2ca4mrsc9enl34n4o/dd7umg42dgcpt0ctt1f41rhthk/1675800665500/QKv6_1PMLogfoGZ4F2qZIhR2lFkOIuVR/03657807101489194857/5AI-xGzyKM-1CL5ekfQGndqMm_a_4lcKts0swCVF_DH-z1mcEVmSR0wysKMpi9woHa462rj3CMGVZn0nev5s9tsAoQAZpqS-25R9KShyT_iPP0tGqKVyqQckZ9lYIwZT0U1wD4JJziGixeZshSPQ80OI2AAFKvczxA2tmiDPh9yDK5IhYQu2sEI7fs4TqKIlCjMM6VQ?session=0&fife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.775445,
+          33.18954
+        ]
+      }
+    }
+  ]
+}
+    
